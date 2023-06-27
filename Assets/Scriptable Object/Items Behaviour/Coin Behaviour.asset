@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1424e595316bf4ab787feb6de81bfb25, type: 3}
+  m_Name: Coin Behaviour
+  m_EditorClassIdentifier: 
+  _itemType: 1
+  _itemSprite: {fileID: 21300000, guid: fc6673d512b734b39928e084e85a19f8, type: 3}
+  _canPresistItem: 0
+  _isStackable: 1
+  _coinValue: 1
+  _healthPotionValue: 0
+  _poisonDamageValue: 0
